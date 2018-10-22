@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: hotelres
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: root
+Implementation-Vendor-Id: org.hotel.res
+Build-Jdk: 1.8.0_03-Ubuntu
+Implementation-URL: http://projects.spring.io/spring-boot/hotelres/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
